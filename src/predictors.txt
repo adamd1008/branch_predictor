@@ -1,3 +1,4 @@
 Repeater,python repeater.py
 !Repeater,python not_repeater.py
+Random,sh random.sh
 2-toucher,python 2-toucher.py
